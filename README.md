@@ -21,6 +21,7 @@
 - Higher-Order Components,
 - Styled Components,
 - TypeScript;
+- Redux.
 ---
 
 ## Предпросмотр проекта будет после его завершения. 
